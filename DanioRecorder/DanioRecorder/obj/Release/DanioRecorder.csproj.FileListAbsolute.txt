@@ -1,0 +1,128 @@
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\DanioRecorder.exe.config
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\DanioRecorder.exe
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\DanioRecorder.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\netstandard.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.AppContext.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Collections.Concurrent.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Collections.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Collections.Specialized.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.ComponentModel.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Console.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Data.Common.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Diagnostics.Process.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Drawing.Primitives.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Globalization.Calendars.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Globalization.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Globalization.Extensions.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.IO.Compression.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.IO.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.IO.FileSystem.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.IO.Pipes.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Linq.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Linq.Expressions.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Linq.Parallel.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Linq.Queryable.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Net.Http.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Net.NameResolution.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Net.Ping.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Net.Primitives.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Net.Requests.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Net.Security.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Net.Sockets.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Net.WebSockets.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.ObjectModel.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Reflection.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Reflection.Extensions.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Reflection.Primitives.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Resources.Reader.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Resources.Writer.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Runtime.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Runtime.Extensions.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Runtime.Handles.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Runtime.Numerics.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Security.Claims.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Security.Principal.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Security.SecureString.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Text.Encoding.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Threading.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Threading.Overlapped.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Threading.Tasks.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Threading.Thread.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Threading.Timer.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.ValueTuple.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Xml.XDocument.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Xml.XPath.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\Emgu.CV.World.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\OpenCvSharp.dll
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\Emgu.CV.World.xml
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\OpenCvSharp.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\bin\Release\OpenCvSharp.xml
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.exe.config
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.MainForm.resources
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.csproj.CopyComplete
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.exe
+C:\Users\Alex\Documents\Visual Studio 2017\My Projects\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.pdb
+C:\Program Files\DanioRecorder\DanioRecorder\bin\Release\DanioRecorder.exe.config
+C:\Program Files\DanioRecorder\DanioRecorder\bin\Release\DanioRecorder.exe
+C:\Program Files\DanioRecorder\DanioRecorder\bin\Release\DanioRecorder.pdb
+C:\Program Files\DanioRecorder\DanioRecorder\bin\Release\Emgu.CV.World.xml
+C:\Program Files\DanioRecorder\DanioRecorder\bin\Release\OpenCvSharp.pdb
+C:\Program Files\DanioRecorder\DanioRecorder\bin\Release\OpenCvSharp.xml
+C:\Program Files\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.csproj.AssemblyReference.cache
+C:\Program Files\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.csproj.SuggestedBindingRedirects.cache
+C:\Program Files\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.MainForm.resources
+C:\Program Files\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.Properties.Resources.resources
+C:\Program Files\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.csproj.GenerateResource.cache
+C:\Program Files\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.csproj.CoreCompileInputs.cache
+C:\Program Files\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.csproj.CopyComplete
+C:\Program Files\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.exe
+C:\Program Files\DanioRecorder\DanioRecorder\obj\Release\DanioRecorder.pdb
